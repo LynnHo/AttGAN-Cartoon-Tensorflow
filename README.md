@@ -4,7 +4,7 @@
 
 # <p align="center"> [AttGAN](https://ieeexplore.ieee.org/document/8718508?source=authoralert)-Cartoon <br> <sub><sub> [TIP Nov. 2019](https://ieeexplore.ieee.org/document/8718508?source=authoralert), [arXiv Nov. 2017](https://arxiv.org/pdf/1711.10678v1.pdf) </sub></sub> </p>
 
-*Example of using repo. [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) on a cartoon dataset. We make modifications to the files below to adapt the repo. [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) to the cartoon dataset. Please use a diff tool to show the differences of these files from the original ones in [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow), then you can find out what modification should we make to [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) for a **custom dataset**.*
+*Example of using repo. [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) on a cartoon dataset. We make modifications to the files below to adapt the repo. [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) to the cartoon dataset. Please use a diff tool to show the differences of these files from the original ones in [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow), then you can find out what modifications should we make to [AttGAN-Tensorflow](https://github.com/LynnHo/AttGAN-Tensorflow) for a **custom dataset**.*
 
 - [data.py](./data.py)
 - [train.py](./train.py)
