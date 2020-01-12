@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+/data/*
+!/data/prepare_dataset.py
+/output/
+
