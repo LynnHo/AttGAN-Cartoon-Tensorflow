@@ -29,8 +29,6 @@
 
         source activate AttGAN
 
-        conda install -c anaconda tensorflow-gpu=1.15
-
         conda install -c anaconda opencv
 
         conda install -c anaconda scikit-image
@@ -38,6 +36,8 @@
         conda install -c anaconda tqdm
 
         conda install -c conda-forge oyaml
+
+        conda install -c anaconda tensorflow-gpu=1.15
         ```
 
 - Data Preparation
