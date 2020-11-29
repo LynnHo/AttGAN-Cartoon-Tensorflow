@@ -40,6 +40,12 @@
         conda install -c anaconda tensorflow-gpu=1.15
         ```
 
+    - *NOTICE: if you create a new conda environment, remember to activate it before any other command*
+
+        ```console
+        source activate AttGAN
+        ```
+
 - Data Preparation
 
     - [Cartoon Set](https://google.github.io/cartoonset)
@@ -57,12 +63,6 @@
             ```
 
 - Run AttGAN
-
-    - *NOTICE: if you create a new conda environment, remember to activate it before any command*
-
-        ```console
-        source activate AttGAN
-        ```
 
     - training
 
